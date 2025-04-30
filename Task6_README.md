@@ -70,15 +70,9 @@ ORDER BY
 ## Visualizations
 
 ### Monthly Revenue
-![sales_chart](sales_chart.png)
+![sales_chart]("Monthly Revenue .png")
 
 This bar chart shows monthly sales trends. March 2023 had the highest revenue, indicating a strong Q1 sales period.
-
-### Product-wise Total Sales
-![product_sales_chart](product_sales_chart.png)
-
-This chart reveals the most profitable products based on total revenue. It helps identify which product lines contribute most to overall sales.
-
 
 ## Conclusion
 - March saw the highest monthly revenue and order count.
